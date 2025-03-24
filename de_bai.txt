@@ -1,0 +1,30 @@
+Bài tập 1: Quản lý danh sách sinh viên
+Tạo ứng dụng cho phép thêm, sửa, xóa sinh viên.
+Hiển thị danh sách sinh viên với phân trang (mỗi trang 5 sinh viên).
+Thông tin sinh viên: mã sinh viên, tên, tuổi, lớp.
+Có chức năng filter, validate
+
+Bài tập 2: Quản lý thư viện sách
+Tạo ứng dụng cho phép thêm, sửa, xóa sách.
+Hiển thị danh sách sách với phân trang (mỗi trang 3 sách).
+Thông tin sách: mã sách, tiêu đề, tác giả, năm xuất bản.
+Có chức năng filter, validate
+
+
+Bài tập 3: Quản lý danh sách công việc
+Tạo ứng dụng cho phép thêm, sửa, xóa công việc.
+Hiển thị danh sách công việc với phân trang (mỗi trang 4 công việc).
+Thông tin công việc: mã công việc, mô tả, ngày bắt đầu, ngày kết thúc.
+Có chức năng filter, validate
+
+Bài tập 4: Quản lý danh sách sản phẩm
+Tạo ứng dụng cho phép thêm, sửa, xóa sản phẩm.
+Hiển thị danh sách sản phẩm với phân trang (mỗi trang 5 sản phẩm).
+Thông tin sản phẩm: mã sản phẩm, tên, giá, số lượng.
+Có chức năng filter, validate
+
+Bài tập 5: Quản lý danh sách nhân viên
+Tạo ứng dụng cho phép thêm, sửa, xóa nhân viên.
+Hiển thị danh sách nhân viên với phân trang (mỗi trang 5 nhân viên).
+Thông tin nhân viên: mã nhân viên, tên, tuổi, phòng ban.
+Có chức năng filter, validate
